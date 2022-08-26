@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hello world! My name is Ruben Sowah and this is my very first blog. I am currently studying Applied mathematics and Statistics 
+at North Carolina State University located in Raleigh, NC. I am looking forward to sharing my journey and updates of my life with you:)

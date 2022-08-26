@@ -31,7 +31,7 @@
     long time ago, statisticians have been able to get away with less coding, however things are now changing fast and with the exponential rise of computers and 
     technology, a great statistician must be able to get his/her hands dirty with lots of coding, just like data scientists.
     
-    Note, nevertheless, that in research oriented areas, statistcians will get more theoretical while data scientists will be concerned with the applied side of           things.
+    Note, nevertheless, that in research oriented areas, statisticians will get more theoretical while data scientists will be concerned with the applied side of         things.
     
 * ## How do you view yourself in relation to these two areas?
     

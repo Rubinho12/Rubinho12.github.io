@@ -3,12 +3,12 @@ Growing up, I was always fascinated by the beauty of Mathematics and how precise
 applied side of Maths directly more impactful and useful to solve current problems in our society.
 
 <br>
-In this blog we will talk about everything related to the following topics:  
+In this blog we will talk about everything related to the following topics: <br>
   Mathematics <br>
-    Linear Algebra <br>
-    Matrices <br>
-    Analysis <br>
-    etc... <br>
+      Linear Algebra <br>
+      Matrices <br>
+      Analysis <br>
+      etc... <br>
   Probability and Statistics <br>
   Data science <br>
   Coding <br>

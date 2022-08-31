@@ -15,7 +15,9 @@ github_username: "Rubinho12"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
-
+```{r graphics, out.width = "800px", echo = FALSE}
+knitr::include_graphics("C:\Users\17043\Pictures")
+```
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################

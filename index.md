@@ -3,7 +3,7 @@ Hi there and welcome to my blog! My name is **Ruben Sowah** , and I am a graduat
 <br>
 In this blog we will talk about everything related to the following topics:
 
-*Mathematics <br>  
+* Mathematics <br>  
     Linear Algebra <br>    
     Matrices <br>  
     Analysis <br>  

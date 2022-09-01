@@ -8,12 +8,12 @@ In this blog we will talk about everything related to the following topics:
     Matrices <br>  
     Analysis <br>  
     etc... <br>  
-  * Probability and Statistics <br>  
-  * Data science <br>  
-  * Coding <br>  
-  * Machine Learning <br>  
-  * Data engeneering <br>  
-  * Quantitative Analysis <br>  
+* Probability and Statistics <br>  
+* Data science <br>  
+* Coding <br>  
+* Machine Learning <br>  
+* Data engeneering <br>  
+* Quantitative Analysis <br>  
     Risk management <br>  
     Derivatives pricing <br>  
     Trading <br>  

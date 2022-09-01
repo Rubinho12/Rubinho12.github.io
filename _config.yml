@@ -1,13 +1,10 @@
 title: "About me"
 author: "Ruben Sowah"
 description: "This is a blog about quantitative topics from Maths, Statistics, to Data science, Machine Learning and whatnot ." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
-![BGTA](https://user-images.githubusercontent.com/81181676/187808771-7666c374-c2ec-440c-98d6-b2fcae2654b2.JPG)
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-
-email: "resowah@ncsu.edu" 
-       
+email: "resowah@ncsu.edu"      
 #twitter_username: "twitteruser"
 github_username: "Rubinho12"
 #linkedin_username: "linkedinuser"
@@ -17,9 +14,7 @@ github_username: "Rubinho12"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
-```{r graphics, out.width = "800px", echo = FALSE}
-knitr::include_graphics("C:/Users/17043/Pictures")
-```
+
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################

@@ -2,7 +2,7 @@ Hi there and welcome to my blog! My name is **Ruben Sowah** , and I am a graduat
 
 ![](https://thumbs.dreamstime.com/z/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 
-![](https://www.pinterest.com/pin/i-love-math-i-heart-math-mathematics-classic-round-sticker--16888567377859693.jpg)
+![](https://quotefancy.com/media/wallpaper/3840x2160/1018593-Danica-McKellar-Quote-Math-is-the-only-place-where-truth-and.jpg)
 
 In this blog we will talk about everything related to the following topics:
 

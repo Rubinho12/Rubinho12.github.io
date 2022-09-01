@@ -3,10 +3,10 @@ Hi there and welcome to my blog! My name is **Ruben Sowah** , and I am a graduat
 <br>
 In this blog we will talk about everything related to the following topics: <br>
   * Mathematics <br>  
-        + Linear Algebra <br>  
-    +   Matrices <br>  
-    +   Analysis <br>  
-    +   etc... <br>  
+    Linear Algebra <br>  
+    Matrices <br>  
+    Analysis <br>  
+    etc... <br>  
   * Probability and Statistics <br>  
   * Data science <br>  
   * Coding <br>  

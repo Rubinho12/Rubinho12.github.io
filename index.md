@@ -24,4 +24,4 @@ In this blog we will talk about everything related to the following topics:
         - Derivatives pricing <br>  
         - Trading <br>  
   
-  
+  ![]("C:\Users\17043\Pictures\BGTA.JPG")

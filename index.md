@@ -2,7 +2,7 @@ Hi there and welcome to my blog! My name is **Ruben Sowah** , and I am a graduat
 
 ![](https://thumbs.dreamstime.com/z/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 
-![](https://thumbs.dreamstime.com/z/machine-learning-data-analysis-concept-businessman-programmer-abstract-symbol-chip-text-connected-represented-104699049.jpg)
+![](C:\Users\17043\Pictures.png)
 
 <br>
 In this blog we will talk about everything related to the following topics:
@@ -27,4 +27,4 @@ In this blog we will talk about everything related to the following topics:
         - Derivatives pricing <br>  
         - Trading <br>  
   
-  ![](C:\Users\17043\Pictures.png)
+  

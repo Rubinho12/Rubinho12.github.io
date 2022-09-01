@@ -2,7 +2,7 @@ Hi there and welcome to my blog! My name is **Ruben Sowah** , and I am a graduat
 
 ![](https://thumbs.dreamstime.com/z/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 
-![](https://www.pinterest.com/pin/i-love-math-i-heart-math-mathematics-classic-round-sticker--16888567377859693/)
+![](https://www.pinterest.com/pin/i-love-math-i-heart-math-mathematics-classic-round-sticker--16888567377859693)
 
 In this blog we will talk about everything related to the following topics:
 

@@ -35,6 +35,6 @@
     
 * ## How do you view yourself in relation to these two areas?
     
-    Having a background in Mathematics and an advanced degree in Statistics, that involves a lot of coding, I can definitely see myself working as either a 
+    Having a background in Mathematics and an advanced degree in Statistics that involves a lot of coding, I can definitely see myself working as either a 
     statistician or a data scientist. I have the necessary skills to thrive in both careers and with perpetual learning I can hopefullly become an expert.
     

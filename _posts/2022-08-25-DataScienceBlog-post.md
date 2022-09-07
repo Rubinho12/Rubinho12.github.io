@@ -21,14 +21,14 @@
     storytelling.
     
     For the knowledge required, an ideal data scientist must have a strong background in Probality and Statistics, Linear Algebra and Matrices, Bayesian Statistics,
-    Time Series Analysis; and also have strong programming skills in languages such as R, Python, SAS. A data scientist must be comfortable wotking with tools like
+    Time Series Analysis; and also have strong programming skills in languages such as R, Python, SAS. A data scientist must be comfortable working with tools like
     SQL, Hadoop, Tableau etc...
     
 * ## What differences/similarities do you see between data scientists and statisticians? 
     
     Both statisticians and data sientists have a common knowledge of statistics and statistical programming languages. Some even argue that data scientists are just
     rebranded statisticians. I, honestly , do not see much differences between the two professions besides the amount of coding that is involved in each one. For a 
-    long time ago, statisticians have been able to get away with less coding, however things are now changing fast and with the exponential rise of computers and 
+    long time , statisticians have been able to get away with less coding, however things are now changing fast and with the exponential rise of computers and 
     technology, a great statistician must be able to get his/her hands dirty with lots of coding, just like data scientists.
     
     Note, nevertheless, that in research oriented areas, statisticians will get more theoretical while data scientists will be concerned with the applied side of         things.

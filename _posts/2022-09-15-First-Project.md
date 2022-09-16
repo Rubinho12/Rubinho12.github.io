@@ -1,4 +1,4 @@
-## Project 1:  Introduction to Functions in R
+## Introduction to Functions in R
 
 *  ##  What was the purpose of the project?
       

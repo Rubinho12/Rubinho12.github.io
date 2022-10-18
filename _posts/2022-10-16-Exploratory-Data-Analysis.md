@@ -3,7 +3,7 @@
 * ## What is Exploratory Data Analysis?  
 
      Exploratory Data Analysis, often abbreviated as EDA, is an approach used by data analysts and data scientists to analyze and 
-     investigate data sets in order to  summarize their main characteristics , often empploying data vizualization methods. EDA has been 
+     investigate data sets in order to  summarize their main characteristics , often employing data vizualization methods. EDA has been 
      promoted by an American mathematician named **John Tukey** since 1970.  
      
  * ## What strategy is used in performing EDA?  
@@ -49,7 +49,7 @@
         
    * ## Do you have any advice for a new data analyst or scientist who might think that EDA is not useful but rather a waste of time?
    
-        Well, I don't think anyone who is serious of making data science or data analysis as his/her career wil think of EDA as a waste of 
+        Well, I don't think anyone who is serious about making data science or data analysis as his/her career wil think of EDA as a waste of 
         time. EDA is usually the first step of dealing with data. Even if a raw data is given to a machine learning engineer, the first thing
         he/she will do is to get some insight into the data, before building any model. So to any new analyst, do not skip EDA. It helps us avoid 
         lots of erronous assumptions , results, and decisions; helps us determine how to best manipulate data sources to get the desired answers. 

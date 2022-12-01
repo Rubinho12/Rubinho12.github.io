@@ -1,3 +1,4 @@
+
 ## What things are you going to do differently in practice now that you've had this course? 
   This course has provided me with an excellent R programming skils. Not ony did I learn a lot about R, but I also learned quite much about statistics.
    Tidyverse, code automation, ideal exploratory data analysis, statistical learning, the use of github are just some of the many skills that are transferable

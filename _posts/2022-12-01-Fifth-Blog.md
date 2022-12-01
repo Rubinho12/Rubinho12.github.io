@@ -1,3 +1,4 @@
+## Let's talk career.  
 
 ## What things are you going to do differently in practice now that you've had this course? 
   This course has provided me with an excellent R programming skils. Not ony did I learn a lot about R, but I also learned quite much about statistics.
